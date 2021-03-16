@@ -33,7 +33,7 @@ android {
         minSdkVersion versions.sdkMin
         targetSdkVersion versions.sdkTarget
         versionCode 5
-        versionName "1.0.4"
+        versionName "1.0.5"
 
         consumerProguardFiles 'proguard-rules.pro'
     }
